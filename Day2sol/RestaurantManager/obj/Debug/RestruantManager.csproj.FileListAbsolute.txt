@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Day2sol\RestaurantManager\bin\Debug\RestaurantManager.exe.config
+C:\Users\Administrator\source\repos\Day2sol\RestaurantManager\bin\Debug\RestaurantManager.exe
+C:\Users\Administrator\source\repos\Day2sol\RestaurantManager\bin\Debug\RestaurantManager.pdb
+C:\Users\Administrator\source\repos\Day2sol\RestaurantManager\obj\Debug\RestruantManager.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Day2sol\RestaurantManager\obj\Debug\RestruantManager.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day2sol\RestaurantManager\obj\Debug\RestaurantManager.exe
+C:\Users\Administrator\source\repos\Day2sol\RestaurantManager\obj\Debug\RestaurantManager.pdb
