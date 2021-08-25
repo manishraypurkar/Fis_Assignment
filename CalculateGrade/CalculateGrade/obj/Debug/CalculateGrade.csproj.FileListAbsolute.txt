@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\CalculateGrade\CalculateGrade\obj\Debug\CalculateGrade.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\CalculateGrade\CalculateGrade\obj\Debug\CalculateGrade.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CalculateGrade\CalculateGrade\bin\Debug\CalculateGrade.exe.config
+C:\Users\Administrator\source\repos\CalculateGrade\CalculateGrade\bin\Debug\CalculateGrade.exe
+C:\Users\Administrator\source\repos\CalculateGrade\CalculateGrade\bin\Debug\CalculateGrade.pdb
+C:\Users\Administrator\source\repos\CalculateGrade\CalculateGrade\obj\Debug\CalculateGrade.exe
+C:\Users\Administrator\source\repos\CalculateGrade\CalculateGrade\obj\Debug\CalculateGrade.pdb
