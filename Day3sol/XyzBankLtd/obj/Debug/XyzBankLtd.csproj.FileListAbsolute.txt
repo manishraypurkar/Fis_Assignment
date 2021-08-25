@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Day3sol\XyzBankLtd\bin\Debug\XyzBankLtd.exe.config
+C:\Users\Administrator\source\repos\Day3sol\XyzBankLtd\bin\Debug\XyzBankLtd.exe
+C:\Users\Administrator\source\repos\Day3sol\XyzBankLtd\bin\Debug\XyzBankLtd.pdb
+C:\Users\Administrator\source\repos\Day3sol\XyzBankLtd\obj\Debug\XyzBankLtd.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Day3sol\XyzBankLtd\obj\Debug\XyzBankLtd.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day3sol\XyzBankLtd\obj\Debug\XyzBankLtd.exe
+C:\Users\Administrator\source\repos\Day3sol\XyzBankLtd\obj\Debug\XyzBankLtd.pdb

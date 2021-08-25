@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Day3sol\EmployeesList\bin\Debug\EmployeesList.exe.config
+C:\Users\Administrator\source\repos\Day3sol\EmployeesList\bin\Debug\EmployeesList.exe
+C:\Users\Administrator\source\repos\Day3sol\EmployeesList\bin\Debug\EmployeesList.pdb
+C:\Users\Administrator\source\repos\Day3sol\EmployeesList\obj\Debug\EmployeesList.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day3sol\EmployeesList\obj\Debug\EmployeesList.exe
+C:\Users\Administrator\source\repos\Day3sol\EmployeesList\obj\Debug\EmployeesList.pdb
+C:\Users\Administrator\source\repos\Day3sol\EmployeesList\obj\Debug\EmployeesList.csproj.AssemblyReference.cache

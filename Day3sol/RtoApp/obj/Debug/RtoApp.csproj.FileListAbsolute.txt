@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Day3sol\RtoApp\bin\Debug\RtoApp.exe.config
+C:\Users\Administrator\source\repos\Day3sol\RtoApp\bin\Debug\RtoApp.exe
+C:\Users\Administrator\source\repos\Day3sol\RtoApp\bin\Debug\RtoApp.pdb
+C:\Users\Administrator\source\repos\Day3sol\RtoApp\obj\Debug\RtoApp.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Day3sol\RtoApp\obj\Debug\RtoApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day3sol\RtoApp\obj\Debug\RtoApp.exe
+C:\Users\Administrator\source\repos\Day3sol\RtoApp\obj\Debug\RtoApp.pdb
