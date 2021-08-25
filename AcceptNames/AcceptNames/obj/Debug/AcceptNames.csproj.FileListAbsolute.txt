@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\AcceptNames\AcceptNames\bin\Debug\AcceptNames.exe.config
+C:\Users\Administrator\source\repos\AcceptNames\AcceptNames\bin\Debug\AcceptNames.exe
+C:\Users\Administrator\source\repos\AcceptNames\AcceptNames\bin\Debug\AcceptNames.pdb
+C:\Users\Administrator\source\repos\AcceptNames\AcceptNames\obj\Debug\AcceptNames.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\AcceptNames\AcceptNames\obj\Debug\AcceptNames.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\AcceptNames\AcceptNames\obj\Debug\AcceptNames.exe
+C:\Users\Administrator\source\repos\AcceptNames\AcceptNames\obj\Debug\AcceptNames.pdb
