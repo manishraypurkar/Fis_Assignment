@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\TransposeMatrix\TransposeMatrix\obj\Debug\TransposeMatrix.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\TransposeMatrix\TransposeMatrix\obj\Debug\TransposeMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TransposeMatrix\TransposeMatrix\bin\Debug\TransposeMatrix.exe.config
+C:\Users\Administrator\source\repos\TransposeMatrix\TransposeMatrix\bin\Debug\TransposeMatrix.exe
+C:\Users\Administrator\source\repos\TransposeMatrix\TransposeMatrix\bin\Debug\TransposeMatrix.pdb
+C:\Users\Administrator\source\repos\TransposeMatrix\TransposeMatrix\obj\Debug\TransposeMatrix.exe
+C:\Users\Administrator\source\repos\TransposeMatrix\TransposeMatrix\obj\Debug\TransposeMatrix.pdb

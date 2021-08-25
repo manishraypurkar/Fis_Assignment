@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\MenuApp\MenuApp\bin\Debug\MenuApp.exe.config
+C:\Users\Administrator\source\repos\MenuApp\MenuApp\bin\Debug\MenuApp.exe
+C:\Users\Administrator\source\repos\MenuApp\MenuApp\bin\Debug\MenuApp.pdb
+C:\Users\Administrator\source\repos\MenuApp\MenuApp\obj\Debug\MenuApp.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\MenuApp\MenuApp\obj\Debug\MenuApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MenuApp\MenuApp\obj\Debug\MenuApp.exe
+C:\Users\Administrator\source\repos\MenuApp\MenuApp\obj\Debug\MenuApp.pdb
