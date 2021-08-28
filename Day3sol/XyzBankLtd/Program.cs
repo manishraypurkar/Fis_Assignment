@@ -5,11 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 /*
-    Autor -manish anil raypurkar
-    Date =25/08/2021
-    Description -
-
- */
+    Author - manish anil raypurkar
+    date - 25/08/21
+    description - Create a Console App Banking System that handle all Exception Perfectlly.
 namespace XyzBankLtd
 {
     public class Account
