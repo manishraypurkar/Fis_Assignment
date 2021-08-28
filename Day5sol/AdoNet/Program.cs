@@ -8,6 +8,12 @@ using System.Data;
 using System.Configuration;
 using System.Data.SqlClient;
 
+/*
+    Author - manish anil raypurkar
+    date - 27/08/21
+    description - Create a Console App using ADO.NET that manage database
+ */
+
 namespace AdoNet
 {
     class Program
