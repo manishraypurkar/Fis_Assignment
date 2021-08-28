@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Day5sol\AdoNet\bin\Debug\AdoNet.exe.config
+C:\Users\Administrator\source\repos\Day5sol\AdoNet\bin\Debug\AdoNet.exe
+C:\Users\Administrator\source\repos\Day5sol\AdoNet\bin\Debug\AdoNet.pdb
+C:\Users\Administrator\source\repos\Day5sol\AdoNet\obj\Debug\AdoNet.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Day5sol\AdoNet\obj\Debug\AdoNet.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day5sol\AdoNet\obj\Debug\AdoNet.exe
+C:\Users\Administrator\source\repos\Day5sol\AdoNet\obj\Debug\AdoNet.pdb
