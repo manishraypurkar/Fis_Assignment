@@ -17,8 +17,8 @@ namespace EmployeesList
 
         public override string ToString()
         {
-            return "nope";
-           //return $"{this.Id}\t\t{this.Name}\t\t{this.Email}\\t{this.salary}\\t{this.Location}";
+            //return "nope";
+           return $"{this.Id}\t\t{this.Name}\t\t{this.Email}\t\t{this.salary}\t\t{this.Location}";
         }
         
         public int CompareTo(Employee other)
@@ -46,6 +46,8 @@ namespace EmployeesList
             Console.WriteLine("Enter Your Location");
             emp.Location = Console.ReadLine();
 
+            elist.Add(emp);
+
 
         }
         static void DisplayEmployee()
@@ -57,6 +59,7 @@ namespace EmployeesList
 
             foreach(var e in elist )
             {
+                //Console.WriteLine($"{e.Id}\\t{e.Name}\\t{e.Email}\\t{e.salary}\\t{e.Location}");//not a good programming practices
                 Console.WriteLine(e.ToString());
             }
 

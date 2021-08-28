@@ -42,7 +42,7 @@ namespace RtoApp
             if (rtoInfo.ContainsKey(RtoCode))
             {
                 rtoInfo.Remove(RtoCode);
-                Console.WriteLine("Deleted Total Enteries after deleting is: " + rtoInfo.Count);
+                Console.WriteLine("Deleted, Total Enteries after deleting is: " + rtoInfo.Count);
             }
             else
             {
