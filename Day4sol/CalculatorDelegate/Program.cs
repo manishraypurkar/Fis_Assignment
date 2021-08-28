@@ -3,6 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+/*
+    Author - manish anil raypurkar
+    date - 26/08/21
+    description - Create a Console App using Delegates that perform calculator functionality.
+ */
 
 namespace CalculatorDelegate
 {
