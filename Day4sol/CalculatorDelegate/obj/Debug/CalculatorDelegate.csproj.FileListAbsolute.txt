@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Day4sol\CalculatorDelegate\bin\Debug\CalculatorDelegate.exe.config
+C:\Users\Administrator\source\repos\Day4sol\CalculatorDelegate\bin\Debug\CalculatorDelegate.exe
+C:\Users\Administrator\source\repos\Day4sol\CalculatorDelegate\bin\Debug\CalculatorDelegate.pdb
+C:\Users\Administrator\source\repos\Day4sol\CalculatorDelegate\obj\Debug\CalculatorDelegate.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Day4sol\CalculatorDelegate\obj\Debug\CalculatorDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day4sol\CalculatorDelegate\obj\Debug\CalculatorDelegate.exe
+C:\Users\Administrator\source\repos\Day4sol\CalculatorDelegate\obj\Debug\CalculatorDelegate.pdb

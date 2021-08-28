@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Day4sol\ProductLinq\bin\Debug\ProductLinq.exe.config
+C:\Users\Administrator\source\repos\Day4sol\ProductLinq\bin\Debug\ProductLinq.exe
+C:\Users\Administrator\source\repos\Day4sol\ProductLinq\bin\Debug\ProductLinq.pdb
+C:\Users\Administrator\source\repos\Day4sol\ProductLinq\obj\Debug\ProductLinq.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Day4sol\ProductLinq\obj\Debug\ProductLinq.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day4sol\ProductLinq\obj\Debug\ProductLinq.exe
+C:\Users\Administrator\source\repos\Day4sol\ProductLinq\obj\Debug\ProductLinq.pdb
